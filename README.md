@@ -5,7 +5,6 @@
 ## 🚀 About Me
 - 🎯 Passionate about HR Management and Cybersecurity
 - 💻 Skilled in **Java**, **Python**, **JavaScript**, and **React.js**
-- 📚 Experienced in **HR Administration**, **Recruitment**, and **Onboarding**
 - 🛠️ Building a **Telegram Chatbot API** connected to Firebase
 - 🌊 Developing a **Rescue Belt for Beach Safety** project
 
