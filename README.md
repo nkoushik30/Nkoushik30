@@ -14,7 +14,6 @@
 ## 📈 Skills
 - **Programming Languages:** Java, Python, JavaScript
 - **Web Technologies:** HTML, CSS, React.js
-- **HR Tools:** Recruitment, Onboarding, HRIS, Job Descriptions
 - **Other Skills:** Communication, Team Management, Data Analysis
 
 ---
