@@ -21,12 +21,12 @@
 
 ## 🌐 Connect with Me
 - 📧 Email: [23pa1a05h7@vishnu.edu.in](mailto:23pa1a05h7@vishnu.edu.in)  
-- 🔗 LinkedIn: [linkedin.com/in/nelluri-koushik](https://linkedin.com/in/nelluri-koushik)
+- 🔗 LinkedIn: [linkedin.com/in/nelluri-koushik](https://www.linkedin.com/in/koushik-nelluri-3ba67a2ba/)
 
 ---
 
 ## 🏆 Projects
-- 📚 **Telegram Bot API** - Fetches book details from Open Library API
+- 📚 **Telegram Bot API** - Fetches book details from Open Library API for finding Synonyms for a given word
 - 🌊 **Rescue Belt for Beach Safety** - Aiming to improve beach safety measures
 - 📊 **Exploratory Data Analysis on Top 100 YouTube Channels** - Published insights on Medium
 
