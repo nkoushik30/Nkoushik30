@@ -36,12 +36,6 @@
 - 📗 **React.js** for web development
 - 📘 Advancing from **JavaScript 201 to 301**
 
----
-
-## 💬 Fun Fact
-I love brainstorming ideas for creative projects and exploring new tech tools!
-
----
 
 ### ⚡ Let's Connect and Build Something Amazing!
 
