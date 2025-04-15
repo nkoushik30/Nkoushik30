@@ -32,8 +32,7 @@
 
 ## 📖 Currently Learning
 - 📗 **React.js** for web development
-- 📘 Advancing from **JavaScript 201 to 301**
-
+- 📘 Advancing from **Javascript 301 to 401 with React.js**
 
 
 
