@@ -28,11 +28,12 @@
 - 🌊 **Rescue Belt for Beach Safety** - Aiming to improve beach safety measures
 - 📊 **Exploratory Data Analysis on Top 100 YouTube Channels** - Published insights on Medium
 
+
 ---
 
 ## 📖 Currently Learning
 - 📗 **React.js** for web development
-- 📘 Advancing from **Javascript 301 to 401 with React.js**
+- 📘 Advancing from **Javascript 4011 to 501 with React.js**
 
 
 
