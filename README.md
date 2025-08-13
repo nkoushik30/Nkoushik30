@@ -3,7 +3,7 @@
 💻 **B.Tech 2nd Year at Vishnu Institute of Technology, Bhimavaram**
 
 ## 🚀 About Me
-- 🎯 Passionate about HR Management and Cybersecurity
+- 🎯 Passionate about Cybersecurity
 - 💻 Skilled in **Java**, **Python**, **JavaScript**, and **React.js**
 - 🛠️ Building a **Telegram Chatbot API** connected to Firebase
 - 🌊 Developing a **Rescue Belt for Beach Safety** project
