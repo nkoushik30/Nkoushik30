@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_fho965fho965fho9" src="https://github.com/user-attachments/assets/f9e0961b-221b-43e6-a69a-c74ba2ab5357" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bbf896ff-420a-465a-8410-2517b8cf6028" />
+
 
 # Hi there! 👋 I'm NELLURI_KOUSHIK .......
 
