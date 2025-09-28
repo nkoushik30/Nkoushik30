@@ -1,40 +1,4 @@
-
-
-
-
-
-
-![Uploading Gemini_Generated_Image_fho965fho965fho9.png…]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1024" height="1024" alt="Gemini_Generated_Image_fho965fho965fho9" src="https://github.com/user-attachments/assets/f9e0961b-221b-43e6-a69a-c74ba2ab5357" />
 
 # Hi there! 👋 I'm NELLURI_KOUSHIK .......
 
