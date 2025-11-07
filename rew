@@ -1,0 +1,72 @@
+const mongoose = require("mongoose");
+
+mongoose.connect("mongodb+srv://23pa1a05h7_db_user:Koushik8309094146@crudoperations.3ijz36w.mongodb.net/?appName=CrudOperations")
+    .then(() => console.log(" Connected DB"))
+    .catch(err => console.log(err));
+
+//SCHEMA
+const studentSchema = new mongoose.Schema({
+    name: String,
+    age: Number,
+    dept: String
+});
+
+//  MODEL (collection name = students)
+const Student = mongoose.model("students", studentSchema);
+
+//  INSERT
+async function insertStudent() {
+    const student = new Student({
+        name: "Aarav",
+        age: 21,
+        dept: "CSE"
+    });
+
+    const result = await student.save();
+    console.log(" Inserted:", result);
+}
+async function insertStudent() {
+    const student = new Student({
+        name: "Praveen",
+        age: 20,
+        dept: "CSE"
+    });
+
+    const result = await student.save();
+    console.log(" Inserted:", result);
+}
+
+//  FIND (all students)
+async function findStudents() {
+    const result = await Student.find();
+    console.log(" Found:", result);
+}
+
+//  UPDATE
+async function updateStudent() {
+    const result = await Student.updateOne(
+        { name: "Aarav" },           // condition
+        { $set: { age: 22 } }        // updated value
+    );
+    console.log(" Updated:", result);
+}
+
+//DELETE
+async function deleteStudent() {
+    const result = await Student.deleteOne({ name: "Aarav" });
+    console.log(" Deleted:", result);
+}
+
+//  RUN CRUD IN ORDER
+async function run() {
+    await insertStudent();
+    await insertStudent();
+    await findStudents();
+    await updateStudent();
+    await deleteStudent();
+
+    console.log("Using collection:", Student.collection.name);
+
+    mongoose.connection.close();
+}
+run();
