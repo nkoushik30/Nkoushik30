@@ -1,6 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bbf896ff-420a-465a-8410-2517b8cf6028" />
-
-
 # Hi there! 👋 I'm NELLURI_KOUSHIK .......
 
 💻 **B.Tech 2nd Year at Vishnu Institute of Technology, Bhimavaram**
