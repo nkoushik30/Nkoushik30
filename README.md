@@ -74,7 +74,8 @@ I enjoy building **real-world applications**, exploring **cloud & DevOps tools**
 ## 🌐 Connect with Me  
 
 - 📧 Email: [23pa1a05h7@vishnu.edu.in](mailto:23pa1a05h7@vishnu.edu.in)  
-- 🔗 LinkedIn: [linkedin.com/in/nelluri-koushik](https://www.linkedin.com/in/koushik-nelluri-3ba67a2ba/)  
+- 🔗 LinkedIn: [linkedin.com/in/nelluri-koushik](https://www.linkedin.com/in/koushik-nelluri-3ba67a2ba/)
+- 💼 Portfolio: [My_Portfolio](https://nkoushik30.github.io/Portfolio/public/)
 
 ---
 
