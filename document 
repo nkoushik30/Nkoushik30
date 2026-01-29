@@ -1,0 +1,88 @@
+
+ 
+VISHNU INSTITUTE OF TECHNOLOGY - BHIMAVARAM (AUTOMOMOUS)
+III B.Tech II semester Department of CSE
+DevOps
+
+Assignment-1
+LAB ACTIVITY – GIT COLLABORATION
+
+Course: DevOps / Software Engineering / SCM
+Tool Used: Git & GitHub
+Activity Type: Collaborative Lab
+Bloom’s Level: L3 – Apply
+
+Course Outcome (CO)
+CO2: Apply Git-based version control techniques for collaborative software development.
+
+CO–PO Mapping Table
+CO / PO	PO1	PO2	PO3	PO5	PO9	PO10
+CO1	3	3	2	3	3	2
+Legend:
+3 – Strong, 2 – Moderate, 1 – Low
+
+Title: GitHub Collaboration Using Branching and Pull Requests
+Task:
+You are required to perform a Git-based collaboration activity using GitHub by working in a team of two students. One student will act as the repository owner and the other as a collaborator.
+Problem Statement
+Create and collaboratively maintain a GitHub repository named
+Git-Collaboration-Lab-<TeamNo>
+to demonstrate real-time collaboration using Git commands, branching, pull requests, reviews, and merge conflict resolution.
+
+Instructions
+1.	The repository owner shall create the GitHub repository and add the second student as a collaborator.
+2.	Both students shall clone the repository to their local system.
+3.	The collaborator shall create a new branch and make changes to the README.md file by adding their details.
+4.	The collaborator shall commit the changes and raise a Pull Request to the main branch.
+5.	The repository owner shall review the Pull Request, add at least one comment, and merge it.
+6.	Both students shall intentionally modify the same section of a file (TASKS.md) to create a merge conflict.
+7.	The collaborator shall resolve the conflict and update the Pull Request.
+8.	The final merged version shall be pushed to the main branch.
+
+Mandatory Git Commands to be Used
+•	git clone
+•	git status
+•	git add
+•	git commit
+•	git branch
+•	git checkout
+•	git push
+•	git pull
+•	git merge
+
+Submission Requirements
+Each team must submit a single PDF (soft copy) containing:
+1.	GitHub repository link
+2.	Pull Request link
+3.	Screenshots showing:
+o	Repository creation
+o	Collaborator added
+o	Branch creation
+o	Pull request raised
+o	Review comment
+o	Merge conflict and its resolution
+o	Commit history
+Learning Outcomes
+After completing this activity, students will be able to:
+•	Use Git commands for collaborative development
+•	Work with branches and pull requests
+•	Resolve merge conflicts in real-time projects
+•	Collaborate effectively using GitHub
+Evaluation Rubrics
+Total Marks: 10
+Criteria	Description	Marks
+Repository Setup	Repo created correctly, collaborator added	2
+Git Command Usage	Proper use of Git commands with meaningful commits	2
+Branching & Pull Request	Branch creation, PR raised correctly	2
+Review & Collaboration	Review comment given and addressed	2
+Merge Conflict Resolution	Conflict created and resolved successfully	2
+Total		10
+
+
+
+
+
+
+
+
+
