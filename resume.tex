@@ -1,0 +1,149 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% ---------- PAGE SIZE ----------
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% ---------- GLOBAL SPACING ----------
+\setlist[itemize]{topsep=2pt, itemsep=2pt, parsep=0pt, partopsep=0pt}
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{0pt}
+
+% ---------- SECTION FORMAT ----------
+\titleformat{\section}
+  {\vspace{-4pt}\scshape\raggedright\large}{}{0em}{}[\titlerule \vspace{-4pt}]
+
+\pdfgentounicode=1
+
+% ---------- CUSTOM COMMANDS ----------
+\newcommand{\resumeItem}[1]{\item\small{#1}}
+
+\newcommand{\resumeSubheading}[4]{%
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small #3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-6pt}}
+
+% ===================== RESUME =====================
+\begin{document}
+
+% ---------- HEADER ----------
+\begin{center}
+  \textbf{\Huge \scshape Nelluri Koushik} \\ \vspace{2pt}
+  Bhimavaram, India $|$
+  \href{mailto:koushiknelluri827@gmail.com}{koushiknelluri827@gmail.com} $|$
+  +91 8309094146 \\
+  \href{https://www.linkedin.com/in/koushik-nelluri-3ba67a2ba/}{LinkedIn} $|$
+  \href{https://github.com/nkoushik30}{GitHub}
+\end{center}
+
+% ---------- SUMMARY ----------
+\section*{Professional Summary}
+Computer Science student with strong proficiency in \textbf{Full Stack Web Development}. Built secure, scalable web applications using modern frontend and backend technologies, with emphasis on\textbf{ clean architecture, performance optimization, authentication-driven workflows.
+}
+% ---------- SKILLS ----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small\item{
+    \textbf{Languages:} JavaScript, Java, Python \\
+    \textbf{Frontend \& Backend:} HTML5, CSS3, Responsive Web Design, Node.js, React.js \\
+    \textbf{Databases:} Firebase Firestore, MongoDB \\
+    \textbf{Tools \& Platforms:} Git, GitHub, VS Code, Firebase Hosting \\
+    \textbf{Core Competencies:} Full Stack Development, Authentication \& Authorization
+  }
+\end{itemize}
+
+% ---------- EXPERIENCE ----------
+\section{Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {\href{https://docstosheetswebapp.vercel.app/}{DocsToSheets} -- Full Stack Web Application}{Mar 2025 -- Jun 2025}
+  {}{}
+  \resumeItemListStart
+    \resumeItem{\textbf{Built and deployed }a production-grade educational web platform with modular content delivery, secure authentication \textbf{98\% accuracy}, (Google)cloud-hosted architecture.}
+    \resumeItem{Implemented\textbf{ Firebase Authentication }and\textbf{ Firestore-backed} persistence to support 100\% protected access, scalable data management, and extensible features.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Hackathons \& Community Service Projects}{Dec 2024 -- Feb 2025}
+  {}{}
+  \resumeItemListStart
+    \resumeItem{\textbf{Delivered 2+} end-to-end web solutions in time-constrained environments, translating real-world requirements into functional, user-facing applications.}
+    \resumeItem{Executed collaborative \textbf{frontend--backend} integration with focus on usability, accessibility, and \textbf{maintainable codebase.}}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+% ---------- PROJECTS ----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {\href{https://docstosheetswebapp.vercel.app/}{DocsToSheets}}{}
+  {Full Stack Educational Web Platform}{}{}
+  \vspace{4}
+  \resumeItemListStart
+    \resumeItem{Designed and developed a full-stack learning platform covering 5+ \textbf{Microsoft} tools and \textbf{Google} 7+ productivity tools using structured modular content.}
+    \resumeItem{ Engineered a secure, cloud-based solution by integrating \textbf{Firebase Authentication} and \textbf{Firestore}, ensuring \SI{100}{\percent} authorized access and seamless data scaling via \textbf{Vercel}.
+}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {\href{https://github.com/nkoushik30/Sports_Scheduler_501}{Sports Scheduler}}{}
+  {Role-Based Full Stack Web Application}{}
+  \vspace{4}
+  \resumeItemListStart
+    \resumeItem{Built a role-based sports management system using React.js.\textbf{ Publisher and Player access control}.}
+    \resumeItem{Developed \textbf{RESTful API} services using Express.js with MongoDB for \textbf{secure authentication and data persistence}, improved accuracy in data retrieval about 85\%.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+% ---------- EDUCATION ----------
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheading
+  {Vishnu Institute of Technology, Bhimavaram}{2023 -- 2027}
+  {B.Tech in\textbf{ Computer Science and Engineering }\textbf{(CGPA: 8.88/10)}}{}
+\resumeSubHeadingListEnd
+
+% ---------- ACHIEVEMENTS ----------
+\section*{Achievements}
+\begin{itemize}
+  \item Competed in \textbf{STEM Expo (E-Cell Hackathon)} against \textbf{120+ teams}.
+  \item Participated in \textbf{3+ hackathons}, building scalable web applications against \textbf{50+ teams} per event.
+  \item Earned certifications in \textbf{Python-77\% (NPTEL)}, \textbf{Java-58\% (NPTEL)}, \textbf{MongoDB}, and \textbf{GeeksforGeeks Java Fork}.
+\end{itemize}
+
+\end{document}
