@@ -219,26 +219,32 @@ Advantage 3: Early Bug Detection
 
 8. Disadvantages of using Selenium
 
-• Supports only web applications
-• Cannot test desktop applications
-• Cannot test native mobile applications
-• Cannot handle Captcha
-• Cannot handle OTP authentication
+• Supports only web applications.
+
+• Cannot test desktop applications.
+
+• Cannot test native mobile applications.
+
 • No built-in reporting system
+
 • Requires external reporting tools
+
 • Requires programming knowledge
-• No built-in test management
-• Requires external frameworks like TestNG / JUnit
-• Browser compatibility issues
-• Requires browser driver management (ChromeDriver, GeckoDriver)
+
 • Tests are slower compared to API testing
+
 • Requires frequent maintenance
+
 • Test scripts break if UI changes
+
 • No official technical support
+
 • Requires third-party tools for full framework
+
 • Limited support for image-based testing
-• Difficult for non-technical users
+
 • Parallel execution setup is complex
+
 
 
 7. Conclusion
@@ -252,6 +258,7 @@ Advantage 3: Early Bug Detection
 • Selenium improves software quality and reliability.
 
 • Selenium enables fast and safe deployment.
+
 
 
 
