@@ -217,7 +217,7 @@ Advantage 3: Early Bug Detection
 • Selenium ensures safe application release.
 
 
-8. Disadvantages of using Selenium
+7. Disadvantages of using Selenium
 
 • Supports only web applications.
 
@@ -247,7 +247,7 @@ Advantage 3: Early Bug Detection
 
 
 
-7. Conclusion
+8. Conclusion
 
 • Selenium is used to automate testing of banking web applications.
 
@@ -258,6 +258,7 @@ Advantage 3: Early Bug Detection
 • Selenium improves software quality and reliability.
 
 • Selenium enables fast and safe deployment.
+
 
 
 
