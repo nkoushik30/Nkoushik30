@@ -2,6 +2,7 @@ What is selenium ?
 
 "Selenium is widely used in the e-commerce industry to automate testing of critical features like login, add to cart, and checkout, ensuring the application works correctly before deployment."
 
+
 1. Introduction
 
 Context: Why Selenium is needed in DevOps
@@ -15,6 +16,7 @@ Context: Why Selenium is needed in DevOps
 • Selenium is used to automate browser testing and verify application functionality quickly.
 
 • This ensures the banking application is safe and working before deployment.
+
 
 2. What is Selenium
 
@@ -41,6 +43,7 @@ Real-Time Example Actions in Banking Application
 • Selenium verifies login success.
 
 • Selenium reports pass or fail result.
+
 
 3. Selenium in DevOps Pipeline
 
@@ -98,6 +101,7 @@ Step 4: Deployment decision
 
 • Application retested and deployed.
 
+
 4. Major Uses of Selenium in DevOps
 Use 1: Automated Testing
 
@@ -147,6 +151,7 @@ Use 4: Continuous Integration with Jenkins
 
 • Selenium improves DevOps automation.
 
+
 5. Real-World Example: Banking Application
 
 Complete real-time workflow
@@ -172,6 +177,7 @@ Real-Time User Actions Tested by Selenium
 • Accessing user dashboard.
 
 • Verifying successful login.
+
 
 6. Advantages of Selenium in DevOps 
 Advantage 1: Fast Testing
@@ -210,9 +216,32 @@ Advantage 3: Early Bug Detection
 
 • Selenium ensures safe application release.
 
-7. Conclusion
 
-Final Summary Points
+8. Disadvantages of using Selenium
+
+• Supports only web applications
+• Cannot test desktop applications
+• Cannot test native mobile applications
+• Cannot handle Captcha
+• Cannot handle OTP authentication
+• No built-in reporting system
+• Requires external reporting tools
+• Requires programming knowledge
+• No built-in test management
+• Requires external frameworks like TestNG / JUnit
+• Browser compatibility issues
+• Requires browser driver management (ChromeDriver, GeckoDriver)
+• Tests are slower compared to API testing
+• Requires frequent maintenance
+• Test scripts break if UI changes
+• No official technical support
+• Requires third-party tools for full framework
+• Limited support for image-based testing
+• Difficult for non-technical users
+• Parallel execution setup is complex
+
+
+7. Conclusion
 
 • Selenium is used to automate testing of banking web applications.
 
@@ -223,5 +252,6 @@ Final Summary Points
 • Selenium improves software quality and reliability.
 
 • Selenium enables fast and safe deployment.
+
 
 
