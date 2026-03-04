@@ -103,6 +103,7 @@ Step 4: Deployment decision
 
 
 4. Major Uses of Selenium in DevOps
+
 Use 1: Automated Testing
 
 • Selenium tests banking login automatically.
@@ -258,6 +259,7 @@ Advantage 3: Early Bug Detection
 • Selenium improves software quality and reliability.
 
 • Selenium enables fast and safe deployment.
+
 
 
 
