@@ -1,83 +1,105 @@
-# Hi there! 👋 I'm NELLURI KOUSHIK  
+# Hi, I'm NELLURI KOUSHIK  
 
-💻 **B.Tech (3rd Year) – Computer Science**  
-🏫 **Vishnu Institute of Technology (Autonomous), Bhimavaram**  
-
----
-
-## 🚀 About Me  
-
-I am a **Computer Science undergraduate and aspiring Java Full-Stack Developer** with a strong foundation in **Java, Python, JavaScript, and modern web technologies**.  
-I enjoy building **real-world applications**, exploring **cloud & DevOps tools**, and learning how scalable systems work behind the scenes.
-
-- 💻 Skilled in **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, and **React.js**
-- 🛠️ Built a **Telegram Chatbot API** integrated with **Firebase**
-- 🌊 Working on an **IoT-based Rescue Belt for Beach Safety**
-- 📘 Developed **DocsToSheets**, a learning platform for Microsoft & Google tools
-- ☁️ Actively exploring **DevOps, AWS, Linux, Jenkins, Docker & Kubernetes**
+DevOps & Java Full-Stack Engineer  
+B.Tech (3rd Year) – Computer Science  
+Vishnu Institute of Technology (Autonomous), Bhimavaram  
 
 ---
 
-## 📈 Skills  
+## Professional Summary  
 
-### 💡 Programming Languages  
-- Java  
-- Python  
-- JavaScript  
-
-### 🌐 Web Technologies  
-- HTML  
-- CSS  
-- React.js  
-- Node.js (Basics)  
-
-### ☁️ Cloud & DevOps (Learning & Hands-On)  
-- AWS (EC2, S3, IAM – fundamentals)  
-- Linux (Ubuntu, commands, permissions)  
-- Jenkins (CI/CD basics)  
-- Docker & Kubernetes (fundamentals)  
-- Git & GitHub  
-
-### 📊 Other Skills  
-- Communication  
-- Team Management  
-- Data Analysis  
-- Problem Solving  
+DevOps and Java Full-Stack Engineer with hands-on experience in building, containerizing, and deploying scalable cloud-native applications. Skilled in CI/CD pipeline design, AWS infrastructure provisioning, and modern DevOps practices. Proven ability to improve deployment reliability and accelerate release cycles through automation and optimized workflows.
 
 ---
 
-## 🏆 Projects  
+## Technical Skills  
 
-- 📚 **Telegram Bot API**  
-  A Telegram chatbot that fetches book details from the **Open Library API** and provides word-related information. Integrated with Firebase for backend services.
+### Programming Languages  
+Java, Python, JavaScript, Bash, Shell Scripting, C  
 
-- 🌊 **Rescue Belt for Beach Safety**  
-  An IoT-based safety solution aimed at preventing water accidents using sensors, GPS tracking, and alert mechanisms.
+### Web & Frameworks  
+Spring Boot, Node.js, REST APIs, MVC Architecture, HTML5, CSS3  
 
-- 📊 **Exploratory Data Analysis on Top 100 YouTube Channels**  
-  Performed data analysis using Python to uncover trends and insights. Findings were published as a blog on Medium.
+### DevOps & CI/CD  
+Jenkins, GitHub Actions, Multi-Stage Pipelines, Build Automation, Webhook Integration  
 
-- 📘 **DocsToSheets**  
-  A web-based learning platform that helps users master **Microsoft Word, Excel, and Google tools** through structured content, shortcuts, and examples.  
-  **Tech Stack:** HTML, CSS, JavaScript, Firebase Authentication & Hosting
+### Cloud & Containers  
+AWS (EC2, S3, IAM), Docker, Kubernetes, Firebase Hosting, Vercel  
 
----
+### Databases & Monitoring  
+Firebase Firestore, MongoDB, MySQL, Log Analysis, Quality Gates  
 
-## 📖 Currently Learning  
-
-- ⚛️ **React.js** (Advanced concepts)  
-- 🚀 Advancing from **JavaScript 401 → 501 with React.js**  
-- ☁️ **DevOps from Scratch** (AWS, Linux, Jenkins, Docker, Kubernetes)  
+### Tools  
+Git, GitHub, Docker, Kubernetes, Minikube, YAML, VS Code, Git Bash  
 
 ---
 
-## 🌐 Connect with Me  
+## Experience  
 
-- 📧 Email: [23pa1a05h7@vishnu.edu.in](mailto:23pa1a05h7@vishnu.edu.in)  
-- 🔗 LinkedIn: [linkedin.com/in/nelluri-koushik](https://www.linkedin.com/in/koushik-nelluri-3ba67a2ba/)
-- 💼 Portfolio: [My_Portfolio](https://nkoushik30.github.io/Portfolio/public/)
+### DocsToSheets — Full-Stack Web Application  
+Role: Full-Stack Developer & DevOps Engineer  
+
+- Containerized a multi-service application using Docker, reducing environment-related failures  
+- Designed GitHub Actions workflows to automate build, test, and deployment processes  
+- Provisioned AWS infrastructure (EC2, S3, IAM) with secure access control  
+- Integrated Firebase Authentication to secure REST APIs  
+
+### Hackathons & Community Projects  
+Role: DevOps Lead  
+
+- Built end-to-end automated CI/CD pipelines for multiple projects  
+- Implemented pull-request workflows improving code quality and reducing integration issues  
 
 ---
 
-### ⚡ Let's Connect and Build Something Amazing!  
-I’m always open to collaboration, learning, and exciting tech discussions 🚀
+## Projects  
+
+### DocsToSheets  
+Developed a full-stack educational platform for Microsoft and Google Workspace tools with automated CI/CD and zero-downtime deployment  
+
+### Jenkins Build Automation with AWS  
+Designed multi-stage Jenkins pipelines on AWS EC2 to automate builds, testing, and deployments  
+
+### OpenFaaS Serverless Deployment  
+Built and deployed serverless functions using Docker, Kubernetes, and OpenFaaS  
+
+### Telegram Bot API  
+Developed a chatbot integrated with Firebase and Open Library API for retrieving book information  
+
+### Rescue Belt for Beach Safety  
+Designed an IoT-based system with sensors, GPS tracking, and alert mechanisms for water safety  
+
+---
+
+## Education  
+
+B.Tech in Computer Science and Engineering  
+Vishnu Institute of Technology, Bhimavaram  
+CGPA: 8.88 / 10.00  
+
+---
+
+## Achievements & Certifications  
+
+- Participated in multiple hackathons and technical competitions  
+- Certifications in Python, Java, and MongoDB  
+
+---
+
+## Currently Learning  
+
+- Advanced React.js  
+- Advanced DevOps (AWS, Kubernetes, CI/CD optimization)  
+- System Design and Scalable Architecture  
+
+---
+
+## Contact  
+
+Email: 23pa1a05h7@vishnu.edu.in  
+LinkedIn: linkedin.com/in/koushik-nelluri-3ba67a2ba  
+Portfolio: https://nelluri-koushik-portfolio.vercel.app/  
+
+---
+
+Open to opportunities in Java Full-Stack Development and DevOps Engineering
