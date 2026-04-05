@@ -96,8 +96,8 @@ CGPA: 8.88 / 10.00
 
 ## Contact  
 
-Email: 23pa1a05h7@vishnu.edu.in  
-LinkedIn: linkedin.com/in/koushik-nelluri-3ba67a2ba  
+Email: nellurikoushikhead@gmail.com  
+LinkedIn: https://linkedin.com/in/koushik-nelluri-3ba67a2ba  
 Portfolio: https://nelluri-koushik-portfolio.vercel.app/  
 
 ---
