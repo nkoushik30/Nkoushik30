@@ -90,8 +90,8 @@ CGPA: 8.88 / 10.00
 
 ## Currently Learning  
 
-- Advanced React.js  
-- Advanced DevOps (AWS, Kubernetes, CI/CD optimization)  
+  
+- Advanced DevOps (AWS, Kubernetes, CI/CD optimization, DNS systems, TTL working)  
 - System Design and Scalable Architecture  
 
 ---
