@@ -48,7 +48,7 @@ Role: Full-Stack Developer & DevOps Engineer
 Role: DevOps Lead  
 
 - Built end-to-end automated CI/CD pipelines for multiple projects  
-- Implemented pull-request workflows improving code quality and reducing integration issues  
+- Implemented pull-request-based workflows to improve code quality and reduce integration issues  
 
 ---
 
@@ -83,7 +83,8 @@ CGPA: 8.88 / 10.00
 
 - Participated in multiple hackathons and technical competitions  
 - Certifications in Python, Java, and MongoDB  
--Certifications demonstrating strong foundations in programming, databases, and industry-relevant technologies (https://github.com/nkoushik30/Certificates) .
+- Certifications demonstrating strong foundations in programming, databases, and industry-relevant technologies:  
+  https://github.com/nkoushik30/Certificates  
 
 ---
 
