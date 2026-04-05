@@ -83,9 +83,8 @@ CGPA: 8.88 / 10.00
 
 - Participated in multiple hackathons and technical competitions  
 - Certifications in Python, Java, and MongoDB  
-Certifications demonstrating strong foundations in programming, databases, and industry-relevant technologies.
-
-- https://github.com/nkoushik30/Certificates
+-Certifications demonstrating strong foundations in programming, databases, and industry-relevant technologies.
+ https://github.com/nkoushik30/Certificates
 
 ---
 
