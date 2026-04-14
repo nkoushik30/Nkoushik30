@@ -100,7 +100,8 @@ CGPA: 8.88 / 10.00
 
 Email: nellurikoushikhead@gmail.com  
 LinkedIn: https://linkedin.com/in/koushik-nelluri-3ba67a2ba  
-Portfolio: https://nelluri-koushik-portfolio.vercel.app/  
+Portfolio: https://nelluri-koushik-portfolio.vercel.app/    
+Certifications: https://github.com/nkoushik30/Certificates/  
 
 ---
 
