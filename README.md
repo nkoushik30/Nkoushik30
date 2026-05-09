@@ -102,6 +102,7 @@ Email: nellurikoushikhead@gmail.com
 LinkedIn: https://linkedin.com/in/koushik-nelluri-3ba67a2ba  
 Portfolio: https://nelluri-koushik-portfolio.vercel.app/    
 Certifications: https://github.com/nkoushik30/Certificates/
+
 Badges(Salesforce): https://www.salesforce.com/trailblazer/r0l5y6uwajrg1s0yjh
 
 ---
