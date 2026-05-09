@@ -82,12 +82,23 @@ CGPA: 8.88 / 10.00
 ## Achievements & Certifications  
 
 - Participated in multiple hackathons and technical competitions  
-- Certifications in Python, Java, and MongoDB  
-- Certifications demonstrating strong foundations in programming, databases, and industry-relevant technologies:  
-  https://github.com/nkoushik30/Certificates  
+- Certifications in Python, Java, and MongoDB 
 
 ---
 
+### Certifications  
+<a href="https://github.com/nkoushik30/Certificates" target="_blank">View Certifications</a>
+
+---
+## Badges Achieved  
+
+### Salesforce Badges  
+<a href="https://www.salesforce.com/trailblazer/r0l5y6uwajrg1s0yjh" target="_blank">View Salesforce Trailblazer Profile</a>
+
+### GitHub Achievements  
+<a href="https://github.com/nkoushik30?tab=achievements" target="_blank">View GitHub Achievements</a>
+
+---
 ## Currently Learning  
 
   
@@ -95,15 +106,16 @@ CGPA: 8.88 / 10.00
 - System Design and Scalable Architecture  
 
 ---
-
 ## Contact  
 
-Email: nellurikoushikhead@gmail.com  
-LinkedIn: https://linkedin.com/in/koushik-nelluri-3ba67a2ba  
-Portfolio: https://nelluri-koushik-portfolio.vercel.app/    
-Certifications: https://github.com/nkoushik30/Certificates/
+### Email  
+<a href="mailto:nellurikoushikhead@gmail.com">nellurikoushikhead@gmail.com</a>
 
-Badges(Salesforce): https://www.salesforce.com/trailblazer/r0l5y6uwajrg1s0yjh
+### LinkedIn  
+<a href="https://linkedin.com/in/koushik-nelluri-3ba67a2ba" target="_blank">View LinkedIn Profile</a>
+
+### Portfolio  
+<a href="https://nelluri-koushik-portfolio.vercel.app/" target="_blank">Visit Portfolio</a>
 
 ---
 
