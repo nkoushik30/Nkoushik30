@@ -109,7 +109,7 @@ CGPA: 8.88 / 10.00
 ## Contact  
 
 ### Email  
-<a href="mailto:nellurikoushikhead@gmail.com">nellurikoushikhead@gmail.com</a>
+<a href="mailto:nellurikoushikhead@gmail.com">email</a>
 
 ### LinkedIn  
 <a href="https://linkedin.com/in/koushik-nelluri-3ba67a2ba" target="_blank">View LinkedIn Profile</a>
