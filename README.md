@@ -1,6 +1,6 @@
 # Hi, I'm NELLURI KOUSHIK  
 
-DevOps & Java Full-Stack Engineer  
+Java Full-Stack & DevOps Engineer  
 B.Tech (3rd Year) – Computer Science  
 Vishnu Institute of Technology (Autonomous), Bhimavaram  
 
