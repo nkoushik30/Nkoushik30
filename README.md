@@ -98,6 +98,9 @@ CGPA: 8.88 / 10.00
 ### GitHub Achievements  
 <a href="https://github.com/nkoushik30?tab=achievements" target="_blank">View GitHub Achievements</a>
 
+### Badges recieved  
+<a href="https://www.credly.com/users/nelluri-koushik.d5ab83f9" target="_blank">View Credly badges</a>
+
 ---
 ## Currently Learning  
 
