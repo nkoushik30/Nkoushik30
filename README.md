@@ -87,19 +87,19 @@ CGPA: 8.88 / 10.00
 ---
 
 ### Certifications  
-<a href="https://github.com/nkoushik30/Certificates" target="_blank">View Certifications</a>
+<a href="https://github.com/nkoushik30/Certificates" target="_blank">View Certifications.</a>
 
 ---
 ## Badges Achieved  
 
 ### Salesforce Badges  
-<a href="https://www.salesforce.com/trailblazer/r0l5y6uwajrg1s0yjh" target="_blank">View Salesforce Trailblazer Profile</a>
+<a href="https://www.salesforce.com/trailblazer/r0l5y6uwajrg1s0yjh" target="_blank">View Salesforce Trailblazer Profile.</a>
 
 ### GitHub Achievements  
-<a href="https://github.com/nkoushik30?tab=achievements" target="_blank">View GitHub Achievements</a>
+<a href="https://github.com/nkoushik30?tab=achievements" target="_blank">View GitHub Achievements.</a>
 
 ### Badges recieved  
-<a href="https://www.credly.com/users/nelluri-koushik.d5ab83f9" target="_blank">View Credly badges</a>
+<a href="https://www.credly.com/users/nelluri-koushik.d5ab83f9" target="_blank">View Credly badges.</a>
 
 ---
 ## Currently Learning  
@@ -112,13 +112,13 @@ CGPA: 8.88 / 10.00
 ## Contact  
 
 ### Email  
-<a href="mailto:nellurikoushikhead@gmail.com">email</a>
+<a href="mailto:nellurikoushikhead@gmail.com">email.</a>
 
 ### LinkedIn  
-<a href="https://linkedin.com/in/koushik-nelluri-3ba67a2ba" target="_blank">View LinkedIn Profile</a>
+<a href="https://linkedin.com/in/koushik-nelluri-3ba67a2ba" target="_blank">View LinkedIn Profile.</a>
 
 ### Portfolio  
-<a href="https://nelluri-koushik-portfolio.vercel.app/" target="_blank">Visit Portfolio</a>
+<a href="https://nelluri-koushik-portfolio.vercel.app/" target="_blank">Visit Portfolio.</a>
 
 ---
 
