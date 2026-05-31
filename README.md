@@ -30,7 +30,7 @@ AWS (EC2, S3, IAM), Docker, Kubernetes, Firebase Hosting, Vercel
 Firebase Firestore, MongoDB, MySQL, Log Analysis, Quality Gates  
 
 ### Tools  
-Git, GitHub, Docker, Kubernetes, Minikube, YAML, VS Code, Git Bash  
+Linux, Git, GitHub, Docker, Kubernetes, Minikube, YAML, VS Code, Git Bash
 
 ---
 
